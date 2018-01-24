@@ -9,3 +9,6 @@ set softtabstop=2
 set autoindent
 " Adds an extra level of indentation in some cases
 set smartindent
+
+" Highligh all search pattern matches
+set hlsearch
